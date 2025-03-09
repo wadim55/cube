@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f290861-894a-4ff8-94f4-918dafa7de99" name="Default Changelist" comment="" />
+    <list default="true" id="611a7d5d-a3d9-4f52-891a-e0064de61eb0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +14,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="2u2G01wXpLB0R6Jinzv9EBGTsEV" />
+  <component name="ProjectId" id="2u1NkoWW1xQXNe5yahIMmfOfogN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,7 +23,6 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -49,12 +48,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7f290861-894a-4ff8-94f4-918dafa7de99" name="Default Changelist" comment="" />
-      <created>1741439034474</created>
+      <changelist id="611a7d5d-a3d9-4f52-891a-e0064de61eb0" name="Default Changelist" comment="" />
+      <created>1741412269591</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1741439034474</updated>
-      <workItem from="1741439039655" duration="5778000" />
+      <updated>1741412269591</updated>
+      <workItem from="1741412366498" duration="13261000" />
+      <workItem from="1741495458796" duration="5152000" />
+      <workItem from="1741511634344" duration="3357000" />
     </task>
     <servers />
   </component>
@@ -65,11 +66,5 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="616" y="242" key="run.anything.popup" timestamp="1741439458956">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1741439458956" />
   </component>
 </project>
