@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="035f0892-c5d8-49c4-bb6e-1c6ffd10038d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/1.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/4.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/4.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/5.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/5.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/6.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/6.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/7.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/7.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/9.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/9.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cube.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cube.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2u7m6EJ5lHf9Ym5k1GflMkJ9dHI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="035f0892-c5d8-49c4-bb6e-1c6ffd10038d" name="Default Changelist" comment="" />
+      <created>1741607811805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741607811805</updated>
+      <workItem from="1741607817310" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
