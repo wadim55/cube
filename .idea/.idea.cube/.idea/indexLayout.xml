@@ -13,6 +13,8 @@
       <Path>Logs</Path>
       <Path>Temp</Path>
       <Path>UserSettings</Path>
+      <Path>WebGL Builds</Path>
+      <Path>lego</Path>
       <Path>obj</Path>
     </explicitExcludes>
   </component>

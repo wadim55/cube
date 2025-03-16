@@ -1,31 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="035f0892-c5d8-49c4-bb6e-1c6ffd10038d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/1.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/1.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/3.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/3.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/4.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/4.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/5.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/5.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/6.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/6.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/7.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/7.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/8.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/8.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/9.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/9.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Cube.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Cube.controller.meta" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/101_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/102_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/103_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/105_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/11_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/12_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/13_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/15_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/16_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/17_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/19_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/1х16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/20_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/21_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/23_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/25_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/26_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/28_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/29_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/2х16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/31_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/33_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/34_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/35_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/37_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/38_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/39_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/41_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/42_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/43_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/45_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/46_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/47_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/49_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/50_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/51_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/53_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/54_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/55_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/57_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/58_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/59_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/61_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/62_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/63_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/65_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/66_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/67_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/69_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/70_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/71_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/73_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/74_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/75_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/77_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/78_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/79_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/81_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/82_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/83_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/85_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/86_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/87_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/89_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/90_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/91_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/93_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/94_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/95_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/97_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/98_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/99_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/9_1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/датчик.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/колесо мал.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/мотор.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/хаб.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cube/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cube/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cube/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cube/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cube/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cube/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/11.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/11.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/104.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/104.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/66.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/66.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/72.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/72.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/73.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/73.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/mainAnim.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/mainAnim.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/1.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/1.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/2.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/2.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/3.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/3.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/4.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/4.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/5.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/5.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/6.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/6.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/7.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/7.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/8.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/8.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/9.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/9.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/Cube.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base Anim/Cube.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materisls/New Material 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materisls/New Material 1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Cube.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Cube.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/Mobile_RPAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/Mobile_RPAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/PC_RPAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/PC_RPAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +149,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlockCamera.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/BlockCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cube.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIController.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="2u7m6EJ5lHf9Ym5k1GflMkJ9dHI" />
   <component name="ProjectViewState">
@@ -75,11 +202,32 @@
       <option name="presentableId" value="Default" />
       <updated>1741607811805</updated>
       <workItem from="1741607817310" duration="6000" />
+      <workItem from="1741766443833" duration="2088000" />
+      <workItem from="1741772737252" duration="197000" />
+      <workItem from="1741772961476" duration="12000" />
+      <workItem from="1741773408265" duration="1725000" />
+      <workItem from="1741844537388" duration="4995000" />
+      <workItem from="1741928116066" duration="9126000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
